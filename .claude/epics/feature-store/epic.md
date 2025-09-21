@@ -4,7 +4,7 @@ status: backlog
 created: 2025-09-21T13:35:54Z
 progress: 0%
 prd: .claude/prds/feature-store.md
-github: [Will be updated when synced to GitHub]
+github: https://github.com/WaytoMetaverse/Wayto_Future_Store/issues/1
 ---
 
 # Epic: feature-store
@@ -178,14 +178,14 @@ High-level task categories that will be created:
 - Material system synchronization may need refinement based on testing results
 
 ## Tasks Created
-- [ ] 001.md - Project Foundation and Development Environment Setup (parallel: false)
-- [ ] 002.md - 2D Floor Plan Editor with Canvas Drawing (parallel: true)
-- [ ] 003.md - Material Selection and Furniture Placement System (parallel: true)
-- [ ] 004.md - Backend API and Database Architecture (parallel: true)
-- [ ] 005.md - Unreal Engine C++ Core Classes Implementation (parallel: true)
-- [ ] 006.md - Camera System and Render Pipeline Integration (parallel: true)
-- [ ] 007.md - Frontend Render Interface and Status Management (parallel: true)
-- [ ] 008.md - End-to-End Integration and System Testing (parallel: false)
+- [ ] #2 - Project Foundation and Development Environment Setup (parallel: false)
+- [ ] #3 - 2D Floor Plan Editor with Canvas Drawing (parallel: true)
+- [ ] #4 - Material Selection and Furniture Placement System (parallel: true)
+- [ ] #5 - Backend API and Database Architecture (parallel: true)
+- [ ] #6 - Unreal Engine C++ Core Classes Implementation (parallel: true)
+- [ ] #7 - Camera System and Render Pipeline Integration (parallel: true)
+- [ ] #8 - Frontend Render Interface and Status Management (parallel: true)
+- [ ] #9 - End-to-End Integration and System Testing (parallel: false)
 
 Total tasks: 8
 Parallel tasks: 6
